@@ -21,6 +21,7 @@ To open the weather app window, run the following commands. Make sure the JSON J
 
 
 
+
 ## 🌦️ Weather Display Overview:
 **If the city is found, the following information is presented:**
 **Current Weather Details:**
@@ -44,6 +45,8 @@ To open the weather app window, run the following commands. Make sure the JSON J
 
 **If the city isn't found:**
 An error message will be displayed.
+
+
 
 
 ## ⚙️ Implementation Details
