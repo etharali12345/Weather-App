@@ -1,7 +1,7 @@
 # Weather-App
 A simple Java Weather App that fetches real-time weather data for a city using an online API, displaying temperature, humidity, wind speed, and conditions.
 
-## How to Use
+## 👆 How to Use
 ### Launch the Application: 
 To open the weather app window, run the following commands. Make sure the JSON JAR file is available:
   1. Compile the Java file:
@@ -21,7 +21,7 @@ To open the weather app window, run the following commands. Make sure the JSON J
 
 
 
-## Weather Display Overview:
+## 🌦️ Weather Display Overview:
 **If the city is found, the following information is presented:**
 **Current Weather Details:**
 - City name and local time
@@ -46,7 +46,7 @@ To open the weather app window, run the following commands. Make sure the JSON J
 An error message will be displayed.
 
 
-## Implementation Details
+## ⚙️ Implementation Details
 **1. GUI Setup**
   - ***WeatherApp Class:*** Extends JFrame to create the main application window. The constructor initializes the GUI components, layout, and application behavior.
   - ***Panels:*** 
