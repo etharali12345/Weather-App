@@ -2,13 +2,13 @@
 A simple Java Weather App that fetches real-time weather data for a city using an online API, displaying temperature, humidity, wind speed, and conditions.
 
 # How to Use
-1. Launch the Application
-To open the weather app window, run the following commands. Make sure the JSON JAR file is available
+1. Launch the Application: **
+To open the weather app window, run the following commands. Make sure the JSON JAR file is available:
   javac -cp .:org.json-1.6-20240205.jar WeatherApp.java
   java -cp .:org.json-1.6-20240205.jar WeatherApp
 
  
-3. Search for a City
+3. Search for a City: **
     • In the top left panel, find the input field labeled "Enter City".
     • Type the name of a city (e.g., "London", "Tokyo").
     • Choose a unit of measurement:
