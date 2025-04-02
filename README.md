@@ -19,8 +19,10 @@ To open the weather app window, run the following commands. Make sure the JSON J
   - **Imperial**: °F, mph
 - Click "Search" button
 
+
+
 ## Weather Display Overview:
-### If the city is found, the following information is presented:
+** If the city is found, the following information is presented: **
 **Current Weather Details:**
 - City name and local time
 - Temperature with unit (°C/°F)
@@ -40,7 +42,7 @@ To open the weather app window, run the following commands. Make sure the JSON J
   - City names
   - Search date/time
 
-### If the city isn't found:
+** If the city isn't found: **
 An error message will be displayed.
 
 
@@ -51,14 +53,14 @@ An error message will be displayed.
     - Left Panel: Contains the search field, unit toggle (Metric/Imperial), and search history.
     - Right Panel: Displays weather details and forecasts.
 2. User Interaction
-** The Search Button has an ActionListener that: **
-  1. Retrieves the city name from the input field.
-  2. Calls getJSON() to fetch weather data.
-  3. Updates the display using displayWeather() and displayForecast().
-  4. Adds the search query to history using addSearchToHistory().
+- The Search Button has an ActionListener that: 
+  - Retrieves the city name from the input field.
+  - Calls getJSON() to fetch weather data.
+  - Updates the display using displayWeather() and displayForecast().
+  - Adds the search query to history using addSearchToHistory().
 
 3. Data Fetching
-** getJSON() method: **
+- getJSON() method: 
   - Takes the city name and API URL.
   - Sends an HTTP request using HttpURLConnection.
   - Returns weather data as a JSON string.
