@@ -1,5 +1,5 @@
 # Weather-App
-A simple Java Weather App that fetches real-time weather data for a city using an online API, displaying temperature, humidity, wind speed, and conditions.
+Java Weather Application with a GUI that fetches real-time weather data for a city using an online API. The application displays temperature, humidity, wind speed, and weather conditions in a user-friendly interface.
 
 ## 👆 How to Use
 ### Launch the Application: 
