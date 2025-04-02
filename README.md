@@ -19,7 +19,7 @@ To open the weather app window, run the following commands. Make sure the JSON J
   - **Imperial**: °F, mph
 - Click "Search" button
 
-<br><br><br>
+<br><br>
 
 ## 🌦️ Weather Display Overview:
 **If the city is found, the following information is presented:**
@@ -45,7 +45,7 @@ To open the weather app window, run the following commands. Make sure the JSON J
 **If the city isn't found:**
 An error message will be displayed.
 
-<br><br><br>
+<br><br>
 
 ## ⚙️ Implementation Details
 **1. GUI Setup**
